@@ -8,6 +8,8 @@ public class Main {
 		System.out.println("tst1");
 		System.out.println("This is branch Test1");
 		System.out.println("This is branch Test2");
+		System.out.println("This is brance3");
+		System.out.println("This is branch4");
 		
 	}
 
