@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("tst1");
 		System.out.println("tst1");
 		System.out.println("This is branch Test1");
+		System.out.println("This is branch Test2");
 		
 	}
 
